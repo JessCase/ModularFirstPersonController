@@ -13,4 +13,4 @@ Modular First Person Controller is an open-source first-person controller for Un
 Import the projects files start into Unity to recieve the whole package, including demo scene!
 
 ## Check out more
-[Unity Asset Store]https://assetstore.unity.com/packages/slug/189884
+[Unity Asset Store](https://assetstore.unity.com/packages/slug/189884)
