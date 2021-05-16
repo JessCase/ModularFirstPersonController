@@ -389,7 +389,7 @@ public class FirstPersonController : MonoBehaviour
 
                     if(isCrouched)
                     {
-                        Crouch();
+                        isCrouched = false;
                     }
 
                     if(hideBarWhenFull && !unlimitedSprint)
